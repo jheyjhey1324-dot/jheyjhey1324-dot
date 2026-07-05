@@ -1,11 +1,18 @@
+# Jheimily ✨
 
+Estudante de ADS na PUCPR, estagiária no IFPR e apaixonada por tecnologia e design. Aqui é onde meus projetos de desenvolvimento web ganham vida!
 
-<!--
-**jheyjhey1324-dot/jheyjhey1324-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou sempre aberta a novas conexões e conversas, vamos bater um papo? 
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS) na PUCPR
-💼 Estagiária bolsista no IFPR - Campus Curitiba
-🖋️ Experiência prévia em administração pública (Prefeitura de Curitiba e TJPR)
-🌱 Aprendendo HTML, CSS, Javsscript e tecnologias voltadas a desenvolvimento web
-🎨 Apaixonada por design, estética visual e fotografia
-📌 Buscando crescer na área de tecnologia, unindo minha experiência administrativa com programação
+LinkedIn: www.linkedin.com/in/jheimily-kostolivicz 
+Instagram: https://www.instagram.com/milys.jj/
+
+---
+
+🚀 Atualmente aprendendo: HTML, CSS e JavaScript.
+
+🎯 Formação:Análise e Desenvolvimento de Sistemas — PUCPR.
+
+💼 Estágio: IFPR — Instituto Federal do Paraná.
+
+✨ Interesses: desenvolvimento web, fotografia, design e UI/UX.
