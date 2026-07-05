@@ -1,6 +1,6 @@
 # Jheimily ✨
 
-Acredito que tecnologia e criatividade andam juntas. Com um projeto de cada vez, será aqui meus web sites ganharão vida! 🚀🎨
+Acredito que tecnologia e criatividade andam juntas. Com um projeto de cada vez, será aqui que meus web sites ganharão vida! 🚀🎨
 
 Será um prazer trocar novas conexões e conversas, vamos bater um papo? 
 
